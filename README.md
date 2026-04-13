@@ -17,3 +17,6 @@ python main.py
 ```
 ## EDA
 ```notebook/analysis_online_retail_dataset.ipynb```
+## eCommmerce Analysis
+![Dashboard](dashboard/OverviewPage.png)
+![Dashboard](dashboard/LastPage.png)
